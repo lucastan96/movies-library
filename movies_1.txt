@@ -1,0 +1,63 @@
+1
+Forrest Gump
+Tom Hanks,Robin Wright
+Drama,Romance
+JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+1994
+8.8
+2
+Inception
+Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page
+Action,Adventure,Sci-Fi
+A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+2010
+8.8
+3
+La La Land
+Ryan Gosling,Emma Stone
+Comedy,Drama,Music
+While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.
+2016
+8.1
+4
+Raiders of the Lost Ark
+Harrison Ford,Karen Allen
+Action,Adventure
+Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.
+1981
+8.5
+5
+Star Wars: The Last Jedi
+Daisy Ridley,John Boyega,Mark Hamill
+Action,Adventure,Fantasy
+Having taken her first steps into the larger Jedi world, Rey joins Luke Skywalker on an adventure with Leia, Finn and Poe that unlocks mysteries of the Force and secrets of the past.
+2017
+10
+6
+The Dark Knight
+Christian Bale,Heath Ledger,Aaron Eckhart
+Action,Crime,Drama
+When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+2008
+9
+7
+The Lion King
+Matthew Broderick,James Earl Jones
+Animation,Adventure,Drama
+Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+1994
+8.5
+8
+The Lord of the Rings: The Return of the King
+Elijah Wood,Viggo Mortensen,Ian McKellen
+Adventure,Drama,Fantasy
+Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+2003
+8.9
+9
+The Shawshank Redemption
+Tim Robbins,Morgan Freeman
+Crime,Drama
+Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+1994
+9.3
